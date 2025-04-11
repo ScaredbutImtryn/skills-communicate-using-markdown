@@ -1,20 +1,17 @@
-<header>
+<scared but I am trying>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
 
 # Communicate using Markdown
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+_Starting over or start from the beginning, still trying to judge. I am here because I want to learn how to code. I know of SQL, R, and Python; but I haven't a clue how to used them. I got the basic of SQL. I haven't taken a certification that had a section on R programming. I rushed through the section because I was on a time crunch to complete the course. My background is not in Computer Science so I am learning as I go. I want to be a legitmate Data Analyst so I want to learn this program languages. My experience in data analytics came through on the job training so I never learned coding or how to create a porfolio of my abilities._
 
-</header>
+</honest about my obstacles>
+The one thing I need to be able to learn coding and learn GitHub is my mind, my mental health. I have had bouts of depression and anxiety in the last 2 years which causes me to experience brain fog and lapse in memory recall and learning. I don't want my issues to hinder me so I am working through my obstacles. One of those things is facing those feelings like I don't measure up and the sting of being confused and frustrated with learning. I know if I keep going things will come together. I know that I have to show up and try. 
 
-<!--
-  <<< Author notes: Step 1 >>>
+I know this is going to be a bumpy scary ride but I am ready to conquer my discomfort and fears. Thank you for taking the time to read this. 
+
+<!--The ibe 
+  <<< Author notes: Step 1 >>>,
   Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
   Link to docs.github.com for further explanations.
